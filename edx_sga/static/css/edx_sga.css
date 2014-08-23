@@ -26,6 +26,7 @@
 }
 
 .sga-block table.gridtable td {
+    width: auto;
     border-width: 1px;
     padding: 8px;
     border-style: solid;
@@ -35,6 +36,7 @@
 
 .sga-block .upload {
     position: relative;
+    width: 140px;
 }
 
 .sga-block .upload button {
